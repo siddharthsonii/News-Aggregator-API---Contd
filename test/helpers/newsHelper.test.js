@@ -1,0 +1,1 @@
+let helper = require('../../src/helpers/newsHelper');
